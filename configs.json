@@ -1,0 +1,15 @@
+{
+  "app_params": {
+    "server_ulr": "127.0.0.1",
+    "port": ":8000",
+    "write_timeout": 15,
+    "read_timeout": 15
+  },
+  "db_params": {
+    "user": "postgres",
+    "password": "postgres",
+    "server": "localhost",
+    "port": 5432,
+    "database": "postgres"
+  }
+}
